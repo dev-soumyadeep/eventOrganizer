@@ -1,3 +1,4 @@
+//Organizer can create event and sell tickets in exchange of ethers. 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 contract Event{
